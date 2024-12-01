@@ -58,11 +58,15 @@ Developed a two-agent infrastructure where agents play the traditional **Congkla
   - Game state representation includes pit states and player scores.
   - Algorithms:
     - Minimax with Alpha-Beta Pruning
-    - Monte Carlo Tree Search (MCTS)
+    - Brute Force
   - Comparative performance analysis of agents using different search strategies.
 
 ---
 
-## Project Structure
+## Installation and Running
+
+1. Pull the project
+2. Open folder **Jupyter-Notebook and Imported Classes Code** with Jupyter Notebook 
+3. Run **Main.ipynb**
 
 
